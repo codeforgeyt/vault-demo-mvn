@@ -1,4 +1,4 @@
-package com.codeforgeyt.vauldemomvn.configuration;
+package com.codeforgeyt.vaultdemomvn.configuration;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;
