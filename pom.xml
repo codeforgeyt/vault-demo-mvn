@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.codeforgeyt</groupId>
-	<artifactId>vaul-demo-mvn</artifactId>
+	<artifactId>vault-demo-mvn</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>vaul-demo-mvn</name>
+	<name>vault-demo-mvn</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
